@@ -4,7 +4,7 @@ Developed in C-Sharp + WinForms.
 
 *Software by Mirko Kauffman & Luciano Nieves.*
 
-### Remember: you need SQL Server to make it work.
+#### You need SQL Server to make it work.
 
 ### Images:
 
