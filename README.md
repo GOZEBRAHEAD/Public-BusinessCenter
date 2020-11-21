@@ -4,9 +4,7 @@ Developed in C-Sharp + WinForms.
 
 *Software by Mirko Kauffman & Luciano Nieves.*
 
-### Necessary for make it work:
-- SQL Server<br>
-- Bunifu dlls.
+### Remember: you need SQL Server to make it work.
 
 ### Images:
 
