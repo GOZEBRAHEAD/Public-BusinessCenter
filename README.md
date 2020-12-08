@@ -1,6 +1,6 @@
 ## Business Center is a inventory software with great UI that makes your work easier.
 
-Developed in C-Sharp + WinForms.
+Developed in C-Sharp + WinForms + Bunifu UI Framework.
 
 *Software by Mirko Kauffman & Luciano Nieves.*
 
