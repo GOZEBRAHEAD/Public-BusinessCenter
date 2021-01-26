@@ -1,10 +1,10 @@
 ## Business Center is a inventory software with great UI that makes your work easier.
 
-Developed in C-Sharp + WinForms + Bunifu UI Framework.
+Developed in C-Sharp + WinForms + Bunifu UI Framework + SQL Server.
 
 *Software by Mirko Kauffman & Luciano Nieves.*
 
-#### You need SQL Server to make it work.
+Important: this is a private software, so that's why there's only images in this repository.
 
 ### Images:
 
